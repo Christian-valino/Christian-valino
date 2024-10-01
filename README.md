@@ -30,6 +30,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christian-valino&" alt="christian-valino" /></p>
 
+![snake gif](https://github.com/Christian-valino/Christian-valino/blob/output/github-contribution-grid-snake.svg)
+
 
 <!---
 - 👋 Hi, I’m @Christian-valino
